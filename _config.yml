@@ -1,0 +1,28 @@
+name: Hiatus
+favicon: null
+layout_spectrum: 0.1893323720432818
+typography_spectrum: 0.729478384135291
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7847023222129792
+  lightness: 0.998834794620052
+  saturation: 0.7493453952483833
+  rhythmicContrast: 0.03907342231832445
+purpose: []
